@@ -1,0 +1,3 @@
+/home/opi/CLionProjects/arnob/cmake-build-debug/CMakeFiles/arnob.dir
+/home/opi/CLionProjects/arnob/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/opi/CLionProjects/arnob/cmake-build-debug/CMakeFiles/rebuild_cache.dir
